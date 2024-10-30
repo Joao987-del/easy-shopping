@@ -8,3 +8,5 @@
 <p>-CSS</p>
 
 <img src="https://github.com/Joao987-del/easy-shopping/blob/develop/assets/Captura%20de%20tela%202024-10-30%20173103.png?raw=true"/>
+<br>
+<img src="https://github.com/Joao987-del/easy-shopping/blob/develop/assets/Captura%20de%20tela%202024-10-30%20173344.png?raw=true"/>
